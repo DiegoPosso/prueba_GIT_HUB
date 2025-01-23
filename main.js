@@ -1,3 +1,5 @@
 let mensaje = ("hola DIEGO");
 
-console.log(mensaje);
+let mensaje2 = (" hola diego y chao ")
+
+console.log(mensaje + mensaje2);
